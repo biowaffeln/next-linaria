@@ -1,0 +1,18 @@
+{
+  "name": "@biowaffeln/next-linaria",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/biowaffeln/next-linaria.git"
+	},
+	"bugs": "https://github.com/biowaffeln/next-linaria/issues",
+  "keywords": [
+    "next.js",
+    "linaria"
+  ],
+  "peerDependencies": {
+    "@linaria/webpack-loader": "^3.0.0-beta.1"
+  }
+}
